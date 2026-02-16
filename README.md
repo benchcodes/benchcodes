@@ -3,15 +3,6 @@
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=benchcodes&label=Profile%20Views&color=0e75b6&style=flat" alt="benchcodes" /> 
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=benchcodes&theme=dracula&margin-w=10&margin-h=10&column=7" alt="trophies"/>
-  </a>
-</p>
-
----
-
 ### 🌟 About Me  
 - 🎓 Studying **Computer Science** at National University  
 - 🌱 Currently learning **Web Development Frameworks**  

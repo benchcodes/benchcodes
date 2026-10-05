@@ -74,17 +74,6 @@ A frontend parking management interface for organizing parking slots across mult
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=benchcodes&show_icons=true&theme=tokyonight&hide_border=true"
-    alt="Bench's GitHub Stats"
-  />
-</p>
-
----
-
 ## 📈 GitHub Activity
 
 <p align="center">
@@ -100,7 +89,7 @@ A frontend parking management interface for organizing parking slots across mult
 
 <p align="center">
   <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=benchcodes&theme=tokyonight&hide_border=true"
+    src="https://streak-stats.demolab.com/?user=benchcodes&theme=tokyonight&hide_border=true"
     alt="Bench's GitHub Contribution Streak"
   />
 </p>

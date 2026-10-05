@@ -77,8 +77,32 @@ A frontend parking management interface for organizing parking slots across mult
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=benchcodes&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=benchcodes&theme=tokyonight&hide_border=true" />
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=benchcodes&show_icons=true&theme=tokyonight&hide_border=true"
+    alt="Bench's GitHub Stats"
+  />
+</p>
+
+---
+
+## 📈 GitHub Activity
+
+<p align="center">
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=benchcodes&theme=github-compact&hide_border=true&area=true"
+    alt="Bench's GitHub Activity Graph"
+  />
+</p>
+
+---
+
+## 🔥 Contribution Streak
+
+<p align="center">
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com/?user=benchcodes&theme=tokyonight&hide_border=true"
+    alt="Bench's GitHub Contribution Streak"
+  />
 </p>
 
 ---
@@ -86,7 +110,10 @@ A frontend parking management interface for organizing parking slots across mult
 ## 📈 Most Used Languages
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=benchcodes&layout=compact&theme=tokyonight&hide_border=true" />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=benchcodes&layout=compact&theme=tokyonight&hide_border=true"
+    alt="Bench's Most Used Languages"
+  />
 </p>
 
 ---
@@ -108,8 +135,13 @@ A frontend parking management interface for organizing parking slots across mult
   <a href="https://github.com/benchcodes">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/">
+
+  <a href="https://www.linkedin.com/in/benchculubong">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+
+  <a href="mailto:culubongbenchmatthew@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
